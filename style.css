@@ -1,0 +1,26 @@
+body {
+  font-family: 'Raleway',Opensans;
+  min-height: 400px;
+  background-image: url('https://images.unsplash.com/photo-1446160657592-4782fb76fb99?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1498&q=80');
+  background-color: #fff;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  font-size: 3.5em;
+  color: #3F434A;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  font-size: 1.5em;
+  color: #3F434A;
+  margin-top: 10px;
+}
